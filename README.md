@@ -62,6 +62,8 @@ In directory /var/www/
 
     sudo nano /etc/network/interfaces
 
+Also set VirtualBox adapter to Bridged aka Povezan adapter/vmesnik.
+
 ### Static
 
     auto enp0s3
